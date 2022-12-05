@@ -1,0 +1,13 @@
+baseURL = '/'
+languageCode = 'en-us'
+title = 'My Blog'
+theme = 'terminal'
+
+[params]
+  centerTheme = true
+
+[languages]
+  [languages.en]
+    [languages.en.params.logo]
+      logoText = "Blog"
+      logoHomeLink = "/"
